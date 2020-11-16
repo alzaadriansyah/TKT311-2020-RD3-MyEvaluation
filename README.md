@@ -1,2 +1,2 @@
-# Kelompok-A3
-Kelompok 3 Kelas A Mata Kuliah Rekayasa Perangkat Lunak
+# TKT311-2020-C-MyEvaluation
+MK Rekayasa Perangkat Lunak
