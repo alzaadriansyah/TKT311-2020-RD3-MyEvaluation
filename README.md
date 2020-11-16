@@ -1,2 +1,2 @@
-# TKT311-2020-3C-MyEvaluation
+# TKT311-2020-3A-MyEvaluation
 MK Rekayasa Perangkat Lunak
